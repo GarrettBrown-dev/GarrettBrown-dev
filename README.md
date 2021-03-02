@@ -1,5 +1,5 @@
  <div>  
-  <h2>Hi there, and welcome! Thanks for checking me out! :D width="30px"></h2>
+  <h2>Hi there, and welcome!! :D </h2>
   <p>
   </p>
 </div>
