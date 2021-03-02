@@ -12,14 +12,6 @@ Hiya! My name is Garrett Brown, and I'm an aspiring Software Dev! I'm currently 
 - 👣 Next steps for me ... an internship as a software developer! 🦾
 - 💬 Ask me about Gaming, Metal and Electronic Music, or my pups! 🍹 
 
-🤩 Yes, that:
-- Documentation
-- Checklists
-- All the tea
-- Database design
-- Design systems
-- Thorough testing
-
 📫 Find me: 
 - <a href=https://www.linkedin.com/in/garrett-brown-d/>LinkedIn</a>
 - <a href=https://twitter.com/gman9mm/>Twitter</a>
