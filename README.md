@@ -14,7 +14,6 @@ Hiya! My name is Garrett Brown, and I'm an aspiring Software Dev! I'm currently 
 
 📫 Find me: 
 - <a href=https://www.linkedin.com/in/garrett-brown-d/>LinkedIn</a>
-- <a href=https://twitter.com/gman9mm/>Twitter</a>
 
 
 <div align="center">
