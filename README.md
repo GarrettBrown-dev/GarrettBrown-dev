@@ -4,11 +4,11 @@
   </p>
 </div>
 
-Hiya! My name is Garrett Brown, and I'm an aspiring Software Dev! I'm currently nearing my end of my journey at Epicodus, which I've been at for 8 months! My main coding interests include game development, music creation, and smokin sexy styling!!!
+Hiya! My name is Garrett Brown, and I'm an aspiring Software Dev! I'm currently an Intern at Hubb in Portland for the next 5 weeks or so and I'm super stoked to be a part of the programming world! I live in SE Portland and went to Epicodus coding bootcamp for about 6 months!
 
 📃 About Me:
 - 😄 Pronouns: ** he/him **
-- 🌱 I’m currently learning ... ⚡ React, Three.js, Matter.js, and Tone.js! ⚡ 
+- 🌱 I’m currently learning ... ⚡ Angular and Typescript! ⚡ 
 - 👣 Next steps for me ... an internship as a software developer! 🦾
 - 💬 Ask me about Gaming, Metal and Electronic Music, or my pups! 🍹 
 
