@@ -9,7 +9,7 @@ Hiya! My name is Garrett Brown, and I'm an aspiring Software Dev! I'm currently 
 📃 About Me:
 - 😄 Pronouns: ** he/him **
 - 🌱 I’m currently learning ... ⚡ Angular and Typescript! ⚡ 
-- 👣 Next steps for me ... an internship as a software developer! 🦾
+- 👣 Next steps for me ... interning with Hubb Software!! 🦾
 - 💬 Ask me about Gaming, Metal and Electronic Music, or my pups! 🍹 
 
 📫 Find me: 
