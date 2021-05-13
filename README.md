@@ -15,6 +15,8 @@ Hiya! My name is Garrett Brown, and I'm an aspiring Software Dev! I'm currently 
 📫 Find me: 
 - <a href=https://www.linkedin.com/in/garrett-brown-d/>LinkedIn</a>
 
+** MY STATS ARE BUGGED! I have no idea why, but JavaScript is definitely my most use language, followed by C#, HTML, CSS, Processing (Which isn't appearing for whatever reason...) and C++. **
+
 
 <div align="center">
  
