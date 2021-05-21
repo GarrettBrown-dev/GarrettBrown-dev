@@ -8,7 +8,7 @@ Hiya! My name is Garrett Brown, and I'm an aspiring Software Dev! I'm currently 
 
 📃 About Me:
 - 😄 Pronouns: ** he/him **
-- 🌱 I’m currently learning ... ⚡ Hubb related: Angular, P5 and Typescript! For my own fun: Processing and C++! ⚡ 
+- 🌱 I’m currently learning ... ⚡ Hubb related: Angular, P5 and Typescript! For my own fun: Java, Processing and C++! ⚡ 
 - 👣 Next steps for me ... interning with Hubb Software!! 🦾
 - 💬 Ask me about Gaming, Metal and Electronic Music, or my pups! 🍹 
 
@@ -20,7 +20,7 @@ Hiya! My name is Garrett Brown, and I'm an aspiring Software Dev! I'm currently 
 1.) JavaScript (This includes React, Three.Js, Matter.js, P5, jQuery and more.)
 2.) C# (Includes MySQL, and Unity.)
 3.) TypeScript (Includes only Angular.)
-4.) Processing (Made in Java!)
+4.) Processing and Java
 5.) C++
 
 
