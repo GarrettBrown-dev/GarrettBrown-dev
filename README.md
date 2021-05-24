@@ -9,7 +9,7 @@ Hiya! My name is Garrett Brown, and I'm an aspiring Software Dev! I'm currently 
 📃 About Me:
 - 😄 Pronouns: ** he/him **
 - 🌱 I’m currently learning ... ⚡ Hubb related: Angular, P5 and Typescript! For my own fun: Java, Processing and C++! ⚡ 
-- 👣 Next steps for me ... interning with Hubb Software!! 🦾
+- 👣 Next steps for me ... Finishing my internship with Hubb, assisting Kona Connect on their website, and finding a career of my own!! 🦾
 - 💬 Ask me about Gaming, Metal and Electronic Music, or my pups! 🍹 
 
 📫 Find me: 
