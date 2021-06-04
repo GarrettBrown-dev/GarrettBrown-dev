@@ -4,11 +4,11 @@
   </p>
 </div>
 
-Hiya! My name is Garrett Brown, and I'm an aspiring Software Dev! I'm currently an Intern at Hubb in Portland for the next 2 weeks or so and I'm super stoked to be a part of the programming world! I will also be joining Kona Connect doing volunteer work to work on their chat bot, Sophia for domestic abuse survivors! I live in SE Portland and went to Epicodus coding bootcamp for about 6 months! My main passions in software include awesome UI/UX experiences, visual arts, animation, game-design, and music creation! 
+Hiya! My name is Garrett Brown, and I'm an aspiring Software Dev! I'm currently looking for my first job in the tech industry and I'm super stoked to be a part of the programming world! I will also be joining Kona Connect doing volunteer work to work on their chat bot, Sophia for domestic abuse survivors! I live in SE Portland and went to Epicodus coding bootcamp for about 6 months! My main passions in software include awesome UI/UX experiences, visual arts, animation, game-design, and music creation! 
 
 📃 About Me:
 - 😄 Pronouns: ** he/him **
-- 🌱 I’m currently learning ... ⚡ Hubb related: Angular, P5 and Typescript! For my own fun: Java, Processing and C++! ⚡ 
+- 🌱 I’m currently learning ... ⚡ Kona Connect Related: WordPress! For my own fun: Java, Processing and C++! ⚡ 
 - 👣 Next steps for me ... Finishing my internship with Hubb, assisting Kona Connect on their website, and finding a career of my own!! 🦾
 - 💬 Ask me about Gaming, Metal and Electronic Music, or my pups! 🍹 
 
