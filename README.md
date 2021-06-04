@@ -19,8 +19,8 @@ Hiya! My name is Garrett Brown, and I'm an aspiring Software Dev! I'm currently 
 
 1.) JavaScript (This includes React, Three.Js, Matter.js, P5, jQuery and more.)
 2.) C# (Includes MySQL, and Unity.)
-3.) TypeScript (Includes only Angular.)
-4.) Processing and Java
+3.) Processing and Java
+4.) TypeScript (Includes only Angular.)
 5.) C++
 
 
