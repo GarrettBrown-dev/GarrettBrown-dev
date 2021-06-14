@@ -15,14 +15,13 @@ Hiya! My name is Garrett Brown, and I'm an aspiring Software Dev! I'm currently 
 📫 Find me: 
 - <a href=https://www.linkedin.com/in/garrett-brown-d/>LinkedIn</a>
 
-** PLEASE NOTE, my stats do not necessarily reflect my proficiency in said languages, as I just started C++, yet the one rep I have most-likely contains more data than my other projects combined, due to it containing a framework engine that isn't my own. At Epicodus I studied JavaScript and C#! I would personally rank my skills as such:
+** PLEASE NOTE, my stats do not necessarily reflect my proficiency in said languages, as I just started C++, yet the one repo I have most-likely contains more data than my other projects combined, due to it containing a framework engine that isn't my own. At Epicodus I studied JavaScript and C#! I would personally rank my skills as such:
 
 1.) JavaScript (This includes React, Three.Js, Matter.js, P5, jQuery and more.)
 2.) C# (Includes MySQL, and Unity.)
 3.) Processing and Java
 4.) TypeScript (Includes only Angular.)
 5.) C++
-
 
 <div align="center">
  
