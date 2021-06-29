@@ -8,7 +8,7 @@ Hiya! My name is Garrett Brown, and I'm an aspiring Software Dev! I'm currently 
 
 📃 About Me:
 - 😄 Pronouns: ** he/him **
-- 🌱 I’m currently learning ... ⚡ Kona Connect Related: WordPress! For my own fun: Java, Processing and C++! ⚡ 
+- 🌱 I’m currently learning ... ⚡ Kona Connect Related: WordPress! For my own fun: WebGL, Three.js and C++! ⚡ 
 - 👣 Next steps for me ... Finishing my internship with Hubb, assisting Kona Connect on their website, and finding a career of my own!! 🦾
 - 💬 Ask me about Gaming, Metal and Electronic Music, or my pups! 🍹 
 
