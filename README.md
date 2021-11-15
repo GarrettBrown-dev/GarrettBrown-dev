@@ -22,7 +22,7 @@ Update 11/15/2021: Wow! It's been a second since I've had consistant commits, hu
 1.) JavaScript (This includes React, Three.Js, Matter.js, P5, jQuery and more.)
 2.) C# (Includes MySQL, and Unity.)
 3.) Processing and Java
-4.) TypeScript (Includes only Angular.)
+4.) TypeScript (Angular.)
 5.) C++
 
 <div align="center">
