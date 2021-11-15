@@ -9,10 +9,10 @@ Hiya! My name is Garrett Brown, and I'm an aspiring Software Dev! I'm currently 
 Update 11/15/2021: Wow! It's been a second since I've had consistant commits, huh? While there are a few projects I've been contributing to that aren't showing on my GH feed, namely Sophia, I've also been running into some issues with my mental health that have been preventing mefrom wanting to code, namely, Imposter Syndrome. Plus I've been focusing a little too heavily on applying for jobs over honing my skills, but I'm ready to crack back into coding, and I'm starting by re-upping on JavaScript, my favorite language! :D
 
 📃 About Me:
-- 😄 Pronouns: ** he/him **
+- 😄 Pronouns: ** He/him **
 - 🌱 I’m currently ...  Reviewing my JavaScript Skills!  ⚡ 
 - 👣 Next steps for me ... Landing my first Software Engineering job! 🦾
-- 💬 Ask me about Gaming, animation, metal and electronic music, my vinyl collection, or my theatre background! 🍹 
+- 💬 Ask me about ... Gaming, animation, metal and electronic music, my vinyl collection, or my theatre background! 🍹 
 
 📫 Find me: 
 - <a href=https://www.linkedin.com/in/garrett-brown-d/>LinkedIn</a>
