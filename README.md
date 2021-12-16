@@ -6,8 +6,6 @@
 
 Hiya! My name is Garrett Brown, and I'm an aspiring Software Dev! I'm currently looking for my first job in the tech industry and I'm super stoked to be a part of the programming world! I am also helping Kona Connect to work on their chat bot, Sophia for domestic abuse survivors! I live in SE Portland and went to Epicodus coding bootcamp for about 6 months! My main passions in software include awesome UI/UX experiences, visual arts, animation, game-design, and music creation!
 
-Update 11/15/2021: Wow! It's been a second since I've had consistent commits, huh? While there are a few projects I've been contributing to that aren't showing on my GH feed, namely Sophia, I've also been running into some issues with my mental health that have been preventing mefrom wanting to code, namely, Imposter Syndrome. Plus I've been focusing a little too heavily on applying for jobs over honing my skills, but I'm ready to crack back into coding, and I'm starting by re-upping on JavaScript, my favorite language! :D
-
 📃 About Me:
 - 😄 Pronouns: ** He/him **
 - 🌱 I’m currently ...  Reviewing my JavaScript Skills!  ⚡ 
