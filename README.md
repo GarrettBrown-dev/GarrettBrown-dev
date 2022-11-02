@@ -1,10 +1,10 @@
  <div>  
-  <h2>Hi there, and welcome!! :D </h2>
+  <h2>Hi there, and welcome!</h2>
   <p>
   </p>
 </div>
 
-Hiya! My name is Garrett Brown, and I'm an aspiring Software Dev! I'm currently looking for my first job in the tech industry and I'm super stoked to be a part of the programming world! I am also helping Kona Connect to work on their chat bot, Sophia for domestic abuse survivors! I live in SE Portland and went to Epicodus coding bootcamp for about 6 months! My main passions in software include awesome UI/UX experiences, visual arts, animation, game-design, and music creation!
+Hiya! My name is Garrett Brown, and I'm an aspiring Software Dev! I'm currently looking for my first job in the tech industry and I'm super stoked to be a part of the programming world! I am also helping Kona Connect to work on their chat bot, Sophia for domestic abuse survivors! I live in SE Portland and went to Epicodus coding bootcamp for 8 months! My main passions in software include awesome UI/UX experiences, visual arts, animation, game-design, and music creation!
 
 📃 About Me:
 - 😄 Pronouns: ** He/him **
